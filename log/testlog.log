@@ -1,0 +1,327 @@
+2019-08-26 12:33:24,558 - EmployeeOnboarding -INFO - URL is opened
+2019-08-26 12:33:31,861 - EmployeeOnboarding -INFO - Username is entered
+2019-08-26 12:33:31,948 - EmployeeOnboarding -INFO - password is entered
+2019-08-26 12:33:32,049 - EmployeeOnboarding -INFO - Logged into application
+2019-08-26 12:34:07,936 - EmployeeOnboarding -INFO - Selected EmployeeType
+2019-08-26 12:34:08,712 - EmployeeOnboarding -INFO - Selected Onboarding CheckBox
+2019-08-26 12:34:12,558 - EmployeeOnboarding -INFO - Selected employee location
+2019-08-26 12:34:19,744 - EmployeeOnboarding -INFO - Employee is added by select Finish button
+2019-08-26 12:34:19,852 - EmployeeOnboarding -INFO - admin login is signed out
+2019-08-26 15:56:12,668 - EmployeeOnboarding -INFO - URL is opened
+2019-08-26 15:56:23,288 - EmployeeOnboarding -INFO - Username is entered
+2019-08-26 15:56:23,397 - EmployeeOnboarding -INFO - password is entered
+2019-08-26 15:56:23,602 - EmployeeOnboarding -INFO - Logged into application
+2019-08-26 15:56:23,618 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-26 15:56:59,791 - EmployeeOnboarding -INFO - Selected EmployeeType
+2019-08-26 15:57:00,648 - EmployeeOnboarding -INFO - Selected Onboarding CheckBox
+2019-08-26 15:57:04,050 - EmployeeOnboarding -INFO - Selected employee location
+2019-08-26 15:57:11,212 - EmployeeOnboarding -INFO - Employee is added by select Finish button
+2019-08-26 18:06:22,166 - EmployeeOnboarding -INFO - URL is opened
+2019-08-26 18:06:29,502 - EmployeeOnboarding -INFO - Username is entered
+2019-08-26 18:06:29,601 - EmployeeOnboarding -INFO - password is entered
+2019-08-26 18:06:29,675 - EmployeeOnboarding -INFO - Logged into application
+2019-08-26 18:06:29,684 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-26 18:07:04,936 - EmployeeOnboarding -INFO - Selected EmployeeType
+2019-08-26 18:07:05,733 - EmployeeOnboarding -INFO - Selected Onboarding CheckBox
+2019-08-26 18:07:09,058 - EmployeeOnboarding -INFO - Selected employee location
+2019-08-26 18:07:16,093 - EmployeeOnboarding -INFO - Employee is added by select Finish button
+2019-08-26 18:07:18,860 - EmployeeOnboarding -INFO - Signout is successfull
+2019-08-27 10:53:40,944 - EmployeeOnboarding -INFO - URL is opened
+2019-08-27 10:53:48,514 - EmployeeOnboarding -INFO - Username is entered
+2019-08-27 10:53:48,584 - EmployeeOnboarding -INFO - password is entered
+2019-08-27 10:53:48,649 - EmployeeOnboarding -INFO - Logged into application
+2019-08-27 10:53:48,658 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-27 10:54:23,508 - EmployeeOnboarding -INFO - Selected EmployeeType
+2019-08-27 10:54:24,293 - EmployeeOnboarding -INFO - Selected Onboarding CheckBox
+2019-08-27 10:54:28,153 - EmployeeOnboarding -INFO - Selected employee location
+2019-08-27 10:54:35,358 - EmployeeOnboarding -INFO - Employee is added by select Finish button
+2019-08-27 10:54:37,495 - EmployeeOnboarding -INFO - Signout is successfull
+2019-08-27 15:52:32,031 - EmployeeOnboarding -INFO - URL is opened
+2019-08-27 15:52:39,721 - EmployeeOnboarding -INFO - Username is entered
+2019-08-27 15:52:39,784 - EmployeeOnboarding -INFO - password is entered
+2019-08-27 15:52:39,853 - EmployeeOnboarding -INFO - Logged into application
+2019-08-27 15:52:39,861 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-27 15:53:35,842 - EmployeeOnboarding -INFO - Selected EmployeeType
+2019-08-27 15:56:26,176 - EmployeeOnboarding -INFO - URL is opened
+2019-08-27 15:56:33,426 - EmployeeOnboarding -INFO - Username is entered
+2019-08-27 15:56:33,480 - EmployeeOnboarding -INFO - password is entered
+2019-08-27 15:56:33,544 - EmployeeOnboarding -INFO - Logged into application
+2019-08-27 15:56:33,553 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-27 15:57:29,020 - EmployeeOnboarding -INFO - Selected EmployeeType
+2019-08-27 16:06:24,494 - EmployeeOnboarding -INFO - URL is opened
+2019-08-27 16:06:32,094 - EmployeeOnboarding -INFO - Username is entered
+2019-08-27 16:06:32,190 - EmployeeOnboarding -INFO - password is entered
+2019-08-27 16:06:32,254 - EmployeeOnboarding -INFO - Logged into application
+2019-08-27 16:06:32,262 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-27 16:07:03,347 - EmployeeOnboarding -INFO - Selected EmployeeType
+2019-08-27 16:07:04,541 - EmployeeOnboarding -INFO - Selected Onboarding CheckBox
+2019-08-27 16:07:07,824 - EmployeeOnboarding -INFO - Selected employee location
+2019-08-27 16:07:14,979 - EmployeeOnboarding -INFO - Employee is added by select Finish button
+2019-08-27 16:07:17,127 - EmployeeOnboarding -INFO - Signout is successfull
+2019-08-27 16:08:18,537 - EmployeeOnboarding -INFO - URL is opened
+2019-08-27 16:08:25,787 - EmployeeOnboarding -INFO - Username is entered
+2019-08-27 16:08:25,839 - EmployeeOnboarding -INFO - password is entered
+2019-08-27 16:08:25,898 - EmployeeOnboarding -INFO - Logged into application
+2019-08-27 16:08:25,905 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-27 16:09:18,444 - EmployeeOnboarding -INFO - Selected EmployeeType
+2019-08-27 16:14:28,543 - EmployeeOnboarding -INFO - URL is opened
+2019-08-27 16:14:35,809 - EmployeeOnboarding -INFO - Username is entered
+2019-08-27 16:14:35,859 - EmployeeOnboarding -INFO - password is entered
+2019-08-27 16:14:35,916 - EmployeeOnboarding -INFO - Logged into application
+2019-08-27 16:14:35,924 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-27 16:15:30,200 - EmployeeOnboarding -INFO - Selected EmployeeType
+2019-08-27 16:17:49,685 - EmployeeOnboarding -INFO - URL is opened
+2019-08-27 16:17:57,013 - EmployeeOnboarding -INFO - Username is entered
+2019-08-27 16:17:57,111 - EmployeeOnboarding -INFO - password is entered
+2019-08-27 16:17:57,208 - EmployeeOnboarding -INFO - Logged into application
+2019-08-27 16:17:57,216 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-27 16:18:30,170 - EmployeeOnboarding -INFO - Selected EmployeeType
+2019-08-27 16:18:35,923 - EmployeeOnboarding -INFO - Selected Onboarding CheckBox
+2019-08-27 16:18:39,366 - EmployeeOnboarding -INFO - Selected employee location
+2019-08-27 16:18:46,413 - EmployeeOnboarding -INFO - Employee is added by select Finish button
+2019-08-27 16:18:48,511 - EmployeeOnboarding -INFO - Signout is successfull
+2019-08-27 16:20:12,859 - EmployeeOnboarding -INFO - URL is opened
+2019-08-27 16:20:20,120 - EmployeeOnboarding -INFO - Username is entered
+2019-08-27 16:20:20,172 - EmployeeOnboarding -INFO - password is entered
+2019-08-27 16:20:20,235 - EmployeeOnboarding -INFO - Logged into application
+2019-08-27 16:20:20,243 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-27 16:21:13,810 - EmployeeOnboarding -INFO - Selected EmployeeType
+2019-08-27 18:24:28,063 - EmployeeOnboarding -INFO - URL is opened
+2019-08-27 18:24:35,365 - EmployeeOnboarding -INFO - Username is entered
+2019-08-27 18:24:35,417 - EmployeeOnboarding -INFO - password is entered
+2019-08-27 18:24:35,490 - EmployeeOnboarding -INFO - Logged into application
+2019-08-27 18:24:35,499 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-27 18:25:28,909 - EmployeeOnboarding -INFO - Selected EmployeeType
+2019-08-27 18:31:50,669 - EmployeeOnboarding -INFO - URL is opened
+2019-08-27 18:31:57,962 - EmployeeOnboarding -INFO - Username is entered
+2019-08-27 18:31:58,018 - EmployeeOnboarding -INFO - password is entered
+2019-08-27 18:31:58,088 - EmployeeOnboarding -INFO - Logged into application
+2019-08-27 18:31:58,097 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-27 18:32:52,224 - EmployeeOnboarding -INFO - Selected EmployeeType
+2019-08-27 18:34:41,927 - EmployeeOnboarding -INFO - URL is opened
+2019-08-27 18:34:49,189 - EmployeeOnboarding -INFO - Username is entered
+2019-08-27 18:34:49,252 - EmployeeOnboarding -INFO - password is entered
+2019-08-27 18:34:49,316 - EmployeeOnboarding -INFO - Logged into application
+2019-08-27 18:34:49,324 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-27 18:35:45,972 - EmployeeOnboarding -INFO - Selected EmployeeType
+2019-08-27 18:38:44,579 - EmployeeOnboarding -INFO - URL is opened
+2019-08-27 18:38:51,866 - EmployeeOnboarding -INFO - Username is entered
+2019-08-27 18:38:51,926 - EmployeeOnboarding -INFO - password is entered
+2019-08-27 18:38:51,987 - EmployeeOnboarding -INFO - Logged into application
+2019-08-27 18:38:51,995 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-27 18:39:44,634 - EmployeeOnboarding -INFO - Selected EmployeeType
+2019-08-27 18:39:47,235 - EmployeeOnboarding -INFO - Selected Onboarding CheckBox
+2019-08-27 18:40:49,786 - EmployeeOnboarding -INFO - URL is opened
+2019-08-27 18:40:57,049 - EmployeeOnboarding -INFO - Username is entered
+2019-08-27 18:40:57,111 - EmployeeOnboarding -INFO - password is entered
+2019-08-27 18:40:57,184 - EmployeeOnboarding -INFO - Logged into application
+2019-08-27 18:40:57,195 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-27 18:41:50,755 - EmployeeOnboarding -INFO - Selected EmployeeType
+2019-08-27 18:41:53,368 - EmployeeOnboarding -INFO - Selected Onboarding CheckBox
+2019-08-28 11:02:01,781 - EmployeeOnboarding -INFO - URL is opened
+2019-08-28 11:02:09,282 - EmployeeOnboarding -INFO - Username is entered
+2019-08-28 11:02:09,331 - EmployeeOnboarding -INFO - password is entered
+2019-08-28 11:02:09,394 - EmployeeOnboarding -INFO - Logged into application
+2019-08-28 11:02:09,402 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-28 11:03:05,733 - EmployeeOnboarding -INFO - Selected EmployeeType
+2019-08-28 11:08:21,719 - EmployeeOnboarding -INFO - URL is opened
+2019-08-28 11:08:28,993 - EmployeeOnboarding -INFO - Username is entered
+2019-08-28 11:08:29,060 - EmployeeOnboarding -INFO - password is entered
+2019-08-28 11:08:29,128 - EmployeeOnboarding -INFO - Logged into application
+2019-08-28 11:08:29,136 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-28 11:09:23,185 - EmployeeOnboarding -INFO - Selected EmployeeType
+2019-08-28 11:23:54,298 - EmployeeOnboarding -INFO - URL is opened
+2019-08-28 11:24:01,551 - EmployeeOnboarding -INFO - Username is entered
+2019-08-28 11:24:01,607 - EmployeeOnboarding -INFO - password is entered
+2019-08-28 11:24:01,676 - EmployeeOnboarding -INFO - Logged into application
+2019-08-28 11:24:01,683 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-28 11:24:58,046 - EmployeeOnboarding -INFO - Selected EmployeeType
+2019-08-28 11:25:00,626 - EmployeeOnboarding -INFO - Selected Onboarding CheckBox
+2019-08-28 11:30:05,172 - EmployeeOnboarding -INFO - URL is opened
+2019-08-28 11:30:12,435 - EmployeeOnboarding -INFO - Username is entered
+2019-08-28 11:30:12,489 - EmployeeOnboarding -INFO - password is entered
+2019-08-28 11:30:12,566 - EmployeeOnboarding -INFO - Logged into application
+2019-08-28 11:30:12,579 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-28 11:31:08,918 - EmployeeOnboarding -INFO - Selected EmployeeType
+2019-08-28 11:31:09,191 - EmployeeOnboarding -INFO - Employee Name is entered
+2019-08-28 11:31:09,519 - EmployeeOnboarding -INFO - Employee DOJ is entered
+2019-08-28 11:31:11,520 - EmployeeOnboarding -INFO - Selected Onboarding CheckBox
+2019-08-28 11:31:12,018 - EmployeeOnboarding -INFO - First Page Next button is clicked
+2019-08-28 13:35:02,082 - EmployeeOnboarding -INFO - URL is opened
+2019-08-28 13:35:09,603 - EmployeeOnboarding -INFO - Username is entered
+2019-08-28 13:35:09,663 - EmployeeOnboarding -INFO - password is entered
+2019-08-28 13:35:09,971 - EmployeeOnboarding -INFO - Logged into application
+2019-08-28 13:35:09,979 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-28 13:36:02,828 - EmployeeOnboarding -INFO - Selected EmployeeType
+2019-08-28 15:49:32,121 - EmployeeOnboarding -INFO - URL is opened
+2019-08-28 15:49:39,428 - EmployeeOnboarding -INFO - Username is entered
+2019-08-28 15:49:39,481 - EmployeeOnboarding -INFO - password is entered
+2019-08-28 15:49:39,575 - EmployeeOnboarding -INFO - Logged into application
+2019-08-28 15:49:39,583 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-28 18:26:50,083 - EmployeeOnboarding -INFO - URL is opened
+2019-08-28 18:26:57,592 - EmployeeOnboarding -INFO - Username is entered
+2019-08-28 18:26:57,661 - EmployeeOnboarding -INFO - password is entered
+2019-08-28 18:26:57,741 - EmployeeOnboarding -INFO - Logged into application
+2019-08-28 18:26:57,749 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-28 18:27:33,027 - EmployeeOnboarding -INFO - Selected EmployeeType
+2019-08-28 18:27:33,634 - EmployeeOnboarding -INFO - Employee Name is entered
+2019-08-28 18:27:34,005 - EmployeeOnboarding -INFO - Employee DOJ is entered
+2019-08-28 18:27:36,006 - EmployeeOnboarding -INFO - Selected Onboarding CheckBox
+2019-08-28 18:27:36,513 - EmployeeOnboarding -INFO - First Page Next button is clicked
+2019-08-29 15:00:00,027 - EmployeeOnboarding -INFO - URL is opened
+2019-08-29 15:00:07,912 - EmployeeOnboarding -INFO - Username is entered
+2019-08-29 15:00:07,981 - EmployeeOnboarding -INFO - password is entered
+2019-08-29 15:00:08,046 - EmployeeOnboarding -INFO - Logged into application
+2019-08-29 15:00:08,055 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-29 15:00:40,551 - EmployeeOnboarding -INFO - Selected EmployeeType
+2019-08-29 15:00:40,886 - EmployeeOnboarding -INFO - Employee Name is entered
+2019-08-29 15:00:41,206 - EmployeeOnboarding -INFO - Employee DOJ is entered
+2019-08-29 15:00:43,207 - EmployeeOnboarding -INFO - Selected Onboarding CheckBox
+2019-08-29 15:00:43,719 - EmployeeOnboarding -INFO - First Page Next button is clicked
+2019-08-29 15:03:34,708 - EmployeeOnboarding -INFO - URL is opened
+2019-08-29 15:03:41,967 - EmployeeOnboarding -INFO - Username is entered
+2019-08-29 15:03:42,020 - EmployeeOnboarding -INFO - password is entered
+2019-08-29 15:03:42,093 - EmployeeOnboarding -INFO - Logged into application
+2019-08-29 15:03:42,100 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-29 15:04:38,248 - EmployeeOnboarding -INFO - Selected EmployeeType
+2019-08-29 15:04:38,541 - EmployeeOnboarding -INFO - Employee Name is entered
+2019-08-29 15:04:38,945 - EmployeeOnboarding -INFO - Employee DOJ is entered
+2019-08-29 15:04:46,108 - EmployeeOnboarding -INFO - Selected Onboarding CheckBox
+2019-08-29 15:04:46,644 - EmployeeOnboarding -INFO - First Page Next button is clicked
+2019-08-29 15:04:55,857 - EmployeeOnboarding -INFO - Selected employee location
+2019-08-29 15:04:55,962 - EmployeeOnboarding -INFO - Second Page Next button is clicked
+2019-08-29 15:04:56,051 - EmployeeOnboarding -INFO - Third Page Next button is clicked
+2019-08-29 15:05:02,884 - EmployeeOnboarding -INFO - Employee is added by select Finish button
+2019-08-29 15:05:05,024 - EmployeeOnboarding -INFO - Signout is successfull
+2019-08-29 17:18:51,830 - EmployeeOnboarding -INFO - URL is opened
+2019-08-29 17:18:59,281 - EmployeeOnboarding -INFO - Username is entered
+2019-08-29 17:18:59,346 - EmployeeOnboarding -INFO - password is entered
+2019-08-29 17:18:59,418 - EmployeeOnboarding -INFO - Logged into application
+2019-08-29 17:18:59,428 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-30 14:35:37,340 - EmployeeOnboarding -INFO - URL is opened
+2019-08-30 14:35:44,981 - EmployeeOnboarding -INFO - Username is entered
+2019-08-30 14:35:45,038 - EmployeeOnboarding -INFO - password is entered
+2019-08-30 14:35:45,107 - EmployeeOnboarding -INFO - Logged into application
+2019-08-30 14:35:45,115 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-30 14:38:10,697 - EmployeeOnboarding -INFO - URL is opened
+2019-08-30 14:38:18,007 - EmployeeOnboarding -INFO - Username is entered
+2019-08-30 14:38:18,102 - EmployeeOnboarding -INFO - password is entered
+2019-08-30 14:38:18,208 - EmployeeOnboarding -INFO - Logged into application
+2019-08-30 14:38:18,218 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-30 14:42:50,336 - EmployeeOnboarding -INFO - URL is opened
+2019-08-30 14:42:57,863 - EmployeeOnboarding -INFO - Username is entered
+2019-08-30 14:42:57,952 - EmployeeOnboarding -INFO - password is entered
+2019-08-30 14:42:58,021 - EmployeeOnboarding -INFO - Logged into application
+2019-08-30 14:42:58,030 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-30 14:47:09,921 - EmployeeOnboarding -INFO - URL is opened
+2019-08-30 14:47:17,194 - EmployeeOnboarding -INFO - Username is entered
+2019-08-30 14:47:17,250 - EmployeeOnboarding -INFO - password is entered
+2019-08-30 14:47:17,318 - EmployeeOnboarding -INFO - Logged into application
+2019-08-30 14:47:17,327 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-30 14:49:36,836 - EmployeeOnboarding -INFO - URL is opened
+2019-08-30 14:49:44,130 - EmployeeOnboarding -INFO - Username is entered
+2019-08-30 14:49:44,182 - EmployeeOnboarding -INFO - password is entered
+2019-08-30 14:49:44,250 - EmployeeOnboarding -INFO - Logged into application
+2019-08-30 14:49:44,259 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-30 14:50:27,247 - EmployeeOnboarding -INFO - Selected EmployeeType
+2019-08-30 14:50:27,581 - EmployeeOnboarding -INFO - Employee Name is entered
+2019-08-30 14:50:27,978 - EmployeeOnboarding -INFO - Employee DOJ is entered
+2019-08-30 14:50:35,135 - EmployeeOnboarding -INFO - Selected Onboarding CheckBox
+2019-08-30 14:50:35,686 - EmployeeOnboarding -INFO - First Page Next button is clicked
+2019-08-30 14:50:44,949 - EmployeeOnboarding -INFO - Selected employee location
+2019-08-30 14:50:45,042 - EmployeeOnboarding -INFO - Second Page Next button is clicked
+2019-08-30 14:50:45,143 - EmployeeOnboarding -INFO - Third Page Next button is clicked
+2019-08-30 14:52:13,433 - EmployeeOnboarding -INFO - URL is opened
+2019-08-30 14:52:20,691 - EmployeeOnboarding -INFO - Username is entered
+2019-08-30 14:52:20,748 - EmployeeOnboarding -INFO - password is entered
+2019-08-30 14:52:20,816 - EmployeeOnboarding -INFO - Logged into application
+2019-08-30 14:52:20,826 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-30 14:52:58,315 - EmployeeOnboarding -INFO - Selected EmployeeType
+2019-08-30 14:52:58,642 - EmployeeOnboarding -INFO - Employee Name is entered
+2019-08-30 14:52:59,036 - EmployeeOnboarding -INFO - Employee DOJ is entered
+2019-08-30 14:53:06,171 - EmployeeOnboarding -INFO - Selected Onboarding CheckBox
+2019-08-30 14:53:06,660 - EmployeeOnboarding -INFO - First Page Next button is clicked
+2019-08-30 14:53:15,914 - EmployeeOnboarding -INFO - Selected employee location
+2019-08-30 14:53:16,023 - EmployeeOnboarding -INFO - Second Page Next button is clicked
+2019-08-30 14:53:18,144 - EmployeeOnboarding -INFO - Third Page Next button is clicked
+2019-08-30 14:53:26,384 - EmployeeOnboarding -INFO - Employee is added by select Finish button
+2019-08-30 14:53:26,558 - EmployeeOnboarding -INFO - Employee is added by verifying success message
+2019-08-30 15:04:55,424 - EmployeeOnboarding -INFO - URL is opened
+2019-08-30 15:05:02,702 - EmployeeOnboarding -INFO - Username is entered
+2019-08-30 15:05:02,774 - EmployeeOnboarding -INFO - password is entered
+2019-08-30 15:05:02,839 - EmployeeOnboarding -INFO - Logged into application
+2019-08-30 15:05:02,849 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-30 15:05:38,056 - EmployeeOnboarding -INFO - Selected EmployeeType
+2019-08-30 15:05:38,346 - EmployeeOnboarding -INFO - Employee Name is entered
+2019-08-30 15:05:38,711 - EmployeeOnboarding -INFO - Employee DOJ is entered
+2019-08-30 15:05:45,872 - EmployeeOnboarding -INFO - Selected Onboarding CheckBox
+2019-08-30 15:05:46,418 - EmployeeOnboarding -INFO - First Page Next button is clicked
+2019-08-30 15:05:55,653 - EmployeeOnboarding -INFO - Selected employee location
+2019-08-30 15:05:55,764 - EmployeeOnboarding -INFO - Second Page Next button is clicked
+2019-08-30 15:05:57,892 - EmployeeOnboarding -INFO - Third Page Next button is clicked
+2019-08-30 15:06:06,073 - EmployeeOnboarding -INFO - Employee is added by select Finish button
+2019-08-30 15:06:09,976 - EmployeeOnboarding -INFO - Employee is added by verifying success message
+2019-08-30 15:09:10,104 - EmployeeOnboarding -INFO - URL is opened
+2019-08-30 15:09:17,391 - EmployeeOnboarding -INFO - Username is entered
+2019-08-30 15:09:17,489 - EmployeeOnboarding -INFO - password is entered
+2019-08-30 15:09:17,571 - EmployeeOnboarding -INFO - Logged into application
+2019-08-30 15:09:17,579 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-30 15:10:07,243 - EmployeeOnboarding -INFO - Selected EmployeeType
+2019-08-30 15:10:07,526 - EmployeeOnboarding -INFO - Employee Name is entered
+2019-08-30 15:10:07,916 - EmployeeOnboarding -INFO - Employee DOJ is entered
+2019-08-30 15:10:15,078 - EmployeeOnboarding -INFO - Selected Onboarding CheckBox
+2019-08-30 15:10:15,591 - EmployeeOnboarding -INFO - First Page Next button is clicked
+2019-08-30 15:10:24,817 - EmployeeOnboarding -INFO - Selected employee location
+2019-08-30 15:10:24,930 - EmployeeOnboarding -INFO - Second Page Next button is clicked
+2019-08-30 15:10:27,076 - EmployeeOnboarding -INFO - Third Page Next button is clicked
+2019-08-30 15:10:35,237 - EmployeeOnboarding -INFO - Employee is added by select Finish button
+2019-08-30 15:10:35,290 - EmployeeOnboarding -INFO - Employee is added by verifying success message
+2019-08-30 15:10:42,465 - EmployeeOnboarding -INFO - Signout is successfull
+2019-08-30 15:13:55,682 - EmployeeOnboarding -INFO - URL is opened
+2019-08-30 15:14:02,935 - EmployeeOnboarding -INFO - Username is entered
+2019-08-30 15:14:02,989 - EmployeeOnboarding -INFO - password is entered
+2019-08-30 15:14:03,062 - EmployeeOnboarding -INFO - Logged into application
+2019-08-30 15:14:03,071 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-30 15:14:58,261 - EmployeeOnboarding -INFO - Selected EmployeeType
+2019-08-30 15:14:58,556 - EmployeeOnboarding -INFO - Employee Name is entered
+2019-08-30 15:14:58,928 - EmployeeOnboarding -INFO - Employee DOJ is entered
+2019-08-30 17:39:36,122 - EmployeeOnboarding -INFO - URL is opened
+2019-08-30 17:39:43,591 - EmployeeOnboarding -INFO - Username is entered
+2019-08-30 17:39:43,653 - EmployeeOnboarding -INFO - password is entered
+2019-08-30 17:39:43,734 - EmployeeOnboarding -INFO - Logged into application
+2019-08-30 17:39:43,742 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-30 17:40:41,048 - EmployeeOnboarding -INFO - Selected EmployeeType
+2019-08-30 17:40:41,352 - EmployeeOnboarding -INFO - Employee Name is entered
+2019-08-30 17:40:41,724 - EmployeeOnboarding -INFO - Employee DOJ is entered
+2019-08-30 17:45:24,403 - EmployeeOnboarding -INFO - URL is opened
+2019-08-30 17:45:31,684 - EmployeeOnboarding -INFO - Username is entered
+2019-08-30 17:45:31,744 - EmployeeOnboarding -INFO - password is entered
+2019-08-30 17:45:31,815 - EmployeeOnboarding -INFO - Logged into application
+2019-08-30 17:45:31,824 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-30 17:46:32,386 - EmployeeOnboarding -INFO - Selected EmployeeType
+2019-08-30 17:46:32,664 - EmployeeOnboarding -INFO - Employee Name is entered
+2019-08-30 17:46:33,030 - EmployeeOnboarding -INFO - Employee DOJ is entered
+2019-08-30 17:56:30,494 - EmployeeOnboarding -INFO - URL is opened
+2019-08-30 17:56:37,714 - EmployeeOnboarding -INFO - Username is entered
+2019-08-30 17:56:37,767 - EmployeeOnboarding -INFO - password is entered
+2019-08-30 17:56:37,838 - EmployeeOnboarding -INFO - Logged into application
+2019-08-30 17:56:37,847 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-08-30 17:57:34,225 - EmployeeOnboarding -INFO - Selected EmployeeType
+2019-08-30 17:57:34,550 - EmployeeOnboarding -INFO - Employee Name is entered
+2019-08-30 17:57:34,948 - EmployeeOnboarding -INFO - Employee DOJ is entered
+2019-09-19 17:49:19,405 - EmployeeOnboarding -INFO - URL is opened
+2019-09-19 17:49:26,751 - EmployeeOnboarding -INFO - Username is entered
+2019-09-19 17:49:26,798 - EmployeeOnboarding -INFO - password is entered
+2019-09-19 17:49:26,863 - EmployeeOnboarding -INFO - Logged into application
+2019-09-19 17:49:26,872 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-09-19 17:50:18,022 - EmployeeOnboarding -INFO - Selected EmployeeType
+2019-09-19 17:50:18,311 - EmployeeOnboarding -INFO - Employee Name is entered
+2019-09-19 17:50:18,687 - EmployeeOnboarding -INFO - Employee DOJ is entered
+2019-09-19 17:53:45,967 - EmployeeOnboarding -INFO - URL is opened
+2019-09-19 17:53:53,282 - EmployeeOnboarding -INFO - Username is entered
+2019-09-19 17:53:53,338 - EmployeeOnboarding -INFO - password is entered
+2019-09-19 17:53:53,396 - EmployeeOnboarding -INFO - Logged into application
+2019-09-19 17:53:53,405 - EmployeeOnboarding -INFO - Homepage title is matched
+2019-09-19 17:54:46,920 - EmployeeOnboarding -INFO - Selected EmployeeType
+2019-09-19 17:54:47,206 - EmployeeOnboarding -INFO - Employee Name is entered
+2019-09-19 17:54:47,565 - EmployeeOnboarding -INFO - Employee DOJ is entered

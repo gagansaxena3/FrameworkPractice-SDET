@@ -1,0 +1,4 @@
+2019-08-22 16:24:10,250  INFO [main] EmployeeOnboarding:16 - URL is opened
+2019-08-22 16:24:19,722  INFO [main] EmployeeOnboarding:24 - Username is entered
+2019-08-22 16:24:19,773  INFO [main] EmployeeOnboarding:26 - password is entered
+2019-08-22 16:24:24,851  INFO [main] EmployeeOnboarding:28 - Logged into application

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Employee Onboarding Automation Test" duration-ms="97743" started-at="2019-08-30T09:39:05Z" finished-at="2019-08-30T09:40:43Z">
+    <groups>
+    </groups>
+    <test name="Employee Onboarding Test" duration-ms="97743" started-at="2019-08-30T09:39:05Z" finished-at="2019-08-30T09:40:43Z">
+      <class name="com.greytip.employeeOnboarding.testCases.TC_AddEmployee_002">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.greytip.employeeOnboarding.testCases.TC_AddEmployee_002@6500df86]" name="setup" is-config="true" duration-ms="2410" started-at="2019-08-30T09:39:18Z" finished-at="2019-08-30T09:39:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="AddEmployee(java.lang.String, java.lang.String)[pri:0, instance:com.greytip.employeeOnboarding.testCases.TC_AddEmployee_002@6500df86]" name="AddEmployee" duration-ms="81422" started-at="2019-08-30T09:39:21Z" data-provider="EmployeeData" finished-at="2019-08-30T09:40:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Gagan ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[gagan.saxena@greytip.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddEmployee -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.greytip.employeeOnboarding.testCases.TC_AddEmployee_002@6500df86]" name="tearDown" is-config="true" duration-ms="771" started-at="2019-08-30T09:40:42Z" finished-at="2019-08-30T09:40:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.greytip.employeeOnboarding.testCases.TC_AddEmployee_002 -->
+      <class name="com.greytip.employeeOnboarding.testCases.TC_LoginTest_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.greytip.employeeOnboarding.testCases.TC_LoginTest_001@42dafa95]" name="setup" is-config="true" duration-ms="3435" started-at="2019-08-30T09:39:05Z" finished-at="2019-08-30T09:39:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.greytip.employeeOnboarding.testCases.TC_LoginTest_001@42dafa95]" name="loginTest" duration-ms="8636" started-at="2019-08-30T09:39:08Z" finished-at="2019-08-30T09:39:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.greytip.employeeOnboarding.testCases.TC_LoginTest_001@42dafa95]" name="tearDown" is-config="true" duration-ms="719" started-at="2019-08-30T09:39:17Z" finished-at="2019-08-30T09:39:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.greytip.employeeOnboarding.testCases.TC_LoginTest_001 -->
+    </test> <!-- Employee Onboarding Test -->
+  </suite> <!-- Employee Onboarding Automation Test -->
+</testng-results>
